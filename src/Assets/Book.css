@@ -1,0 +1,17 @@
+.Book{
+    width: 400px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 10px solid gold;
+}
+
+.Headline{
+
+    padding: 15px 0;
+    background: black;
+    color: white;
+}
+
+.button{
+    margin: 1rem 1.5rem;
+}
